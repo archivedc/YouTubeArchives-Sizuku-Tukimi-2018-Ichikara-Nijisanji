@@ -1,4 +1,4 @@
-# YouTubeArchives-Sizuku-Tukimi-2018-Ichikara-Nijisanji
+# YouTubeArchives
 Sizuku Tukimi (月見しずく), Nijisanji (にじさんじ) project from Ichikara (いちから), 2018.09.03-2020.01.13
 
 ## Links
