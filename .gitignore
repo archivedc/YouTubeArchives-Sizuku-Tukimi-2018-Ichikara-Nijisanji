@@ -1,0 +1,8 @@
+*.*
+!/YouTubeChannel/*
+!*.json
+!*.description
+!*.md5
+!.gitignore
+!README
+!README.md
