@@ -1,5 +1,5 @@
 # YouTubeArchives-Sizuku-Tukimi-2018-Ichikara-Nijisanji
-YouTube archives of Sizuku Tukimi (月見しずく) from Nijisanji (にじさんじ) project from Ichikara (いちから). She debut in 2018.
+Sizuku Tukimi (月見しずく), Nijisanji (にじさんじ) project from Ichikara (いちから), 2018.09.03-2020.01.13
 
 ## Links
 - [Twitter ✨月見しずく🎀@₍ ᐢ. ̫ .ᐢ ₎💦💦](https://twitter.com/tukimi_sizuku)
